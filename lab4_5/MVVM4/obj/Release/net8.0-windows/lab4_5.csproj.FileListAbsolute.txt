@@ -1,0 +1,39 @@
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.exe
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.deps.json
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.runtimeconfig.json
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.pdb
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\MainWindow.baml
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\MainWindow.g.cs
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\App.g.cs
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5_MarkupCompile.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.g.resources
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.AssemblyInfoInputs.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.AssemblyInfo.cs
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.csproj.CoreCompileInputs.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.sourcelink.json
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\refint\lab4_5.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.pdb
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.genruntimeconfig.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab4_5\MVVM4\obj\Release\net8.0-windows\ref\lab4_5.dll
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.exe
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.deps.json
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.runtimeconfig.json
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.dll
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\bin\Release\net8.0-windows\lab4_5.pdb
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\App.g.cs
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5_MarkupCompile.cache
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.g.resources
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.AssemblyInfoInputs.cache
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.AssemblyInfo.cs
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.csproj.CoreCompileInputs.cache
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.dll
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\refint\lab4_5.dll
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.pdb
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\lab4_5.genruntimeconfig.cache
+C:\Users\toilet\Desktop\IT.Labs-main\lab4_5\MVVM4\obj\Release\net8.0-windows\ref\lab4_5.dll

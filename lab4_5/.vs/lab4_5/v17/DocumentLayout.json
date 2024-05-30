@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toilet\\Desktop\\IT.Labs-main\\lab4_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75603615-B02D-4448-BB6D-8183D206AC3B}|MVVM4\\lab4_5.csproj|c:\\users\\toilet\\desktop\\it.labs-main\\lab4_5\\mvvm4\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75603615-B02D-4448-BB6D-8183D206AC3B}|MVVM4\\lab4_5.csproj|solutionrelative:mvvm4\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75603615-B02D-4448-BB6D-8183D206AC3B}|MVVM4\\lab4_5.csproj|c:\\users\\toilet\\desktop\\it.labs-main\\lab4_5\\mvvm4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75603615-B02D-4448-BB6D-8183D206AC3B}|MVVM4\\lab4_5.csproj|solutionrelative:mvvm4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75603615-B02D-4448-BB6D-8183D206AC3B}|MVVM4\\lab4_5.csproj|c:\\users\\toilet\\desktop\\it.labs-main\\lab4_5\\mvvm4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75603615-B02D-4448-BB6D-8183D206AC3B}|MVVM4\\lab4_5.csproj|solutionrelative:mvvm4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75603615-B02D-4448-BB6D-8183D206AC3B}|MVVM4\\lab4_5.csproj|c:\\users\\toilet\\desktop\\it.labs-main\\lab4_5\\mvvm4\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75603615-B02D-4448-BB6D-8183D206AC3B}|MVVM4\\lab4_5.csproj|solutionrelative:mvvm4\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 839,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mechanic.cs",
+              "DocumentMoniker": "C:\\Users\\toilet\\Desktop\\IT.Labs-main\\lab4_5\\MVVM4\\Mechanic.cs",
+              "RelativeDocumentMoniker": "MVVM4\\Mechanic.cs",
+              "ToolTip": "C:\\Users\\toilet\\Desktop\\IT.Labs-main\\lab4_5\\MVVM4\\Mechanic.cs",
+              "RelativeToolTip": "MVVM4\\Mechanic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:01:11.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\toilet\\Desktop\\IT.Labs-main\\lab4_5\\MVVM4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\toilet\\Desktop\\IT.Labs-main\\lab4_5\\MVVM4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MVVM4\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:00:13.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\toilet\\Desktop\\IT.Labs-main\\lab4_5\\MVVM4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVM4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\toilet\\Desktop\\IT.Labs-main\\lab4_5\\MVVM4\\MainWindow.xaml",
+              "RelativeToolTip": "MVVM4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T12:59:43.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\toilet\\Desktop\\IT.Labs-main\\lab4_5\\MVVM4\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM4\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\toilet\\Desktop\\IT.Labs-main\\lab4_5\\MVVM4\\MainViewModel.cs",
+              "RelativeToolTip": "MVVM4\\MainViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:59:22.409Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 1546,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 1546,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
